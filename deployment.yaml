@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: bootstrap-web
-        image: bootstrap-web:latest
+        image: absolutezero24/bootstrap-web:latest
         ports:
         - containerPort: 80
 
